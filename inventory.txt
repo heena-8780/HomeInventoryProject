@@ -1,0 +1,55 @@
+Dell Laptop
+My Space
+DELL01
+true
+45000
+01/02/2021
+Flipkart
+Light Weight and Handy
+images\dell.jpg
+BackPack
+Home
+BACKPACK02
+true
+1500
+01/03/2021
+Amazon
+Good to Carry Things
+images\backpack.jpg
+Dairy Milk
+Fridge
+DAIRYMILK03
+true
+70
+04/03/2021
+General Store
+Sweet Taste
+images\dairyMilk.jpg
+Iphone
+Desk
+IPHONE05
+true
+45000
+11/02/2021
+Amazon
+Good Mobile
+images\iphone.jpg
+Sofa
+Hall
+SOFA06
+true
+15000
+13/01/2021
+Flipkart
+Convenient to use
+images\sofa.jpg
+Watch
+hall
+WATCH03
+true
+8500
+06/03/2021
+Flipkart
+To keep track of Time
+images\watch.jpg
+
