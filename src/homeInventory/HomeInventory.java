@@ -64,7 +64,7 @@ public class HomeInventory{
 			if((pno+1)>l) return NO_SUCH_PAGE;
 			int i, iEnd;
 			g2D.setFont(new Font("Arial", Font.BOLD, 14));
-			g2D.drawString("                                                 Home Inventory Items - Page " + String.valueOf(pno + 1),
+			g2D.drawString("Home Inventory Items - Page " + String.valueOf(pno + 1),
 			(int) pf.getImageableX(), (int) (pf.getImageableY() + 25));
 			int dy = (int) g2D.getFont().getStringBounds("S",g2D.getFontRenderContext()).getHeight();
 			int y = (int) (pf.getImageableY() + 4 * dy);
